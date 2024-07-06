@@ -1,0 +1,5 @@
+{
+    "imports": {
+        "lazyMod": "/src/lazyModule.js"
+    }
+}

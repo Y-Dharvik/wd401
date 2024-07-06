@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type='importmap'>
+        {
+            "imports": {
+                "lazyMod": "./src/lazyModule.js",
+                "styles": "./css/style.css",
+                "lazyMod1": "./src/lazyModule1.js"
+            }
+        }
+    </script>
+    <title>Test Bundling</title>
+</head>
+<body>
+    <script src="src/index.js" type="module"></script>
+    <link rel="stylesheet" href="css/style.css">
+    <h1>Test Bundling</h1>
+    <button id="lazy-button">Lazy Load</button>
+    <button id="lazy-button1">Lazy Load 1</button>
+</body>
+
+</html>
