@@ -163,4 +163,8 @@ Consider the sample error which we throw intentionally in the code:
 The error is thrown in the `App.tsx` file. By clicking the button, the error is thrown and captured by Sentry. The error is displayed in the Sentry dashboard with the stack trace. The stack trace shows the error is thrown in the `App.tsx` file.
 - The solution is to handle the error by using the `try-catch` block or by simply geting rid of the error-prone code.
 
+## Video Demo:
+
+[![Video Demo](https://drive.google.com/file/d/1o44Sm7Opshci9oUXz6ltkzBRVrvPU1L9/view?usp=sharing)](https://drive.google.com/file/d/1o44Sm7Opshci9oUXz6ltkzBRVrvPU1L9/view?usp=sharing)
+
 
