@@ -202,3 +202,7 @@ export default DateTimeLocal;
     
         - The Date & Time and the other items are shown in the selected German locale.
 
+
+### Video Demo:
+[![Video Demo](https://drive.google.com/file/d/1WL0Mgds09C4jFhpTcPFTLxnaWZ43BDMl/view?usp=sharing)](https://drive.google.com/file/d/1WL0Mgds09C4jFhpTcPFTLxnaWZ43BDMl/view?usp=sharing)
+
